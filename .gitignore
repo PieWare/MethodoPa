@@ -1,0 +1,11 @@
+#ide
+
+.idea
+.idea/vs.xml
+
+#composer
+
+comoser.lock
+vendor
+
+#osef
