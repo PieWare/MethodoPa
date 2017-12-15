@@ -11,5 +11,10 @@
   ],
   "require": {
     "illuminate/database": "5.5.x-dev"
+  },
+  "autoload":{
+    "psr-4":{
+      "methodo\\":"src/"
+    }
   }
 }
