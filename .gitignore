@@ -1,0 +1,10 @@
+#ide
+
+.idea
+
+#composer
+
+comoser.lock
+vendor
+
+#osef
