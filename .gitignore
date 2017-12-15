@@ -1,11 +1,10 @@
 #ide
 
 .idea
-.idea/vs.xml
 
 #composer
 
-comoser.lock
+composer.lock
 vendor
 
 #osef
